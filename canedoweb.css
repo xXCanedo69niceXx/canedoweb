@@ -1,0 +1,96 @@
+body{
+	font-family:Verdana, Arial, sans-serif;
+	font-size:10px;
+	margin:0px;
+}
+#nav{
+	background-color:#101540 ;
+	padding:20px;
+}
+#nav ul{
+	text-align:center;
+}
+#nav li{
+	display:inline;
+	padding-left:10px;
+	padding-right:10px;
+}
+#nav li a{
+	color:white;
+	font-weight:bold;
+	text-decoration:none;
+	padding:15px;
+}
+#webintro{
+	background-image: url("webdes2.jfif");
+	background-position:bottom center;
+	background-size:cover;
+	min-height:600px;
+	margin:0px;
+}
+#webintro h1{
+	color:#0C504A;
+	font-size:6em;
+	margin-top:0px;
+	padding-top:40px;
+	text-align:center;
+	text-shadow:1px 1px black;
+}
+#webintro p{
+	color:#0C504A;
+	text-align:center;
+	font-size:2em;
+	line-height:2em;
+}
+#content{
+	margin:auto;
+	padding-bottom:15px;
+	width:80%;
+}
+#content h2{
+	font-size:1.5em;
+}
+#content p{
+	line-height:2em;
+}
+#aboutweb{
+	background:black;
+	min-height:600px;
+	color:white;
+	padding:10px;
+}
+#aboutweb h2{
+	font-size:1.5em;
+}
+#aboutweb .row{
+	background-color:#0C504A;
+	display:block;
+	display:flex;
+	margin:auto;
+	padding-bottom:30px;
+	width:70%;
+}
+#aboutweb .box{
+	background-color:#0C504A;
+	display:inline-block;
+	text-align:center;
+	width:32%
+	
+}
+#aboutweb .box h3{
+	font-size:2em;
+	text-align:center;
+}
+#aboutweb p{
+	line-height:2em;
+	text-align:center;
+}
+#footer{
+	background-color:#14073B ;
+	padding:15px;
+}
+#footer p{
+	color:white;
+	margin:auto;
+	text-align:center;
+}
