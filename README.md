@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<html> 
+	<head> 
+	<title>Personal Website</title>
+		<meta name="viewwport" content="width=device-width; initial-scale=1.0">
+		<link rel="stylesheet" href="canedoweb.css">
+	</head>
+	
+	<body>
+		<div id="nav">
+			<ul>
+				<li><a href="canedo101web.html">Home</a></li>
+				<li><a href="aboutweb.html">About Me</a></li>
+				<li><a href="myintrest.html">My Intrest</a></li>
+			</ul>
+		</div>
+		<div id="webintro">
+			<h1>Canedo Gian Aldo</h1>
+			<p>"Endure it and Survive"</p>
+		</div>
+		<div id="content">
+			<h2>I'm Gian Aldo Canedo. I'm a DBTC student here in Cebu. Welcome to my website!. I look forward to sharing my thoughts with you and my intrest and hobbies.</h2>
+			<p></p>
+		</div>
+		<div id="aboutweb">
+			<h2>Why I Made This Web</h2>
+			<div class="row">
+				<div class="box">
+					<h3>Conversational and Friendly</h3>
+					<p>I strive to engage in conversations in a friendly and approachable manner. I aim to create a comfortable environment where you and I feel at ease during our discussion.</p>
+				</div>
+				<div class="box">
+					<h3>Empathic and Understanding</h3>
+					<p>I understand that everyone has unique experiences and emotions. I aim to provide empathic responses and support, acknowledging your feelings and offering understanding in our conversations.</p>
+				</div>
+				<div class="box">
+					<h3>Positive and Optimistic</h3>
+					<p>I maintain a positive and optimistic outlook, aiming to bring a sense of positivity to our conversation. I believe in focusing on solutions and opportunities, and I aim to provide encouragement and support.</p>
+				</div>
+			</div>
+		</div>
+				<div id="footer">
+					<p>Copyright &copy; 2020</p>
+				</div>
+	</body>
+</html>
